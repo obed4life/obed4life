@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obed4life
 - 👀 I’m interested in ...web 3, html css javascript python node.js AWS AI flutter blockchain
-- 🌱 I’m currently learning ...python and Ai
+- 🌱 I’m currently learning ...python and Ai and react
 - 💞️ I’m looking to collaborate on ...blochain and app building and web3
 - 📫 How to reach me ...gentleobed@yahoo.com
 <!---
